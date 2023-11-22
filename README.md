@@ -2,7 +2,7 @@
 ComputerInfo is a simple application to check basic information about your computer. 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) to run.
+ComputerInfo requires [Node.js](https://nodejs.org/) to run.
 
 Install the dependencies and devDependencies and start the server.
 
