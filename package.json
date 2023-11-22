@@ -1,0 +1,21 @@
+{
+  "name": "computerinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "check-disk-space": "^3.4.0",
+    "electron": "^27.1.0",
+    "node-os-utils": "^1.3.7",
+    "systeminformation": "^5.21.17"
+  },
+  "devDependencies": {
+    "@electron/packager": "^18.0.0"
+  }
+}
